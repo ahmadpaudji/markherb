@@ -15,12 +15,12 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
+    color: #000;
     
 }
 
 h1 {
 	font-size: 40px;
-  color: black;
 
 }
 
@@ -154,14 +154,14 @@ form.signup input.form-control:focus {
 }
 
 h2.subtitle {
-	color: #fff;
+	color: #000;
 	font-size: 24px;
 }
 
 /* countdown */
 #countdown {
 	font-size: 48px;
-	color: #fff;
+	color: #000;
 	line-height: 1.1em;
 	margin: 40px 0 60px;
 }
