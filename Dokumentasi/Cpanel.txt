@@ -1,0 +1,180 @@
+Hello Ahmad Paudji,
+
+
+
+
+Selamat, Account Hosting anda telah kami aktifkan,
+Sebelum anda memulai menggunakan layanan yang disewa di Qwords.com, mohon untuk membaca isi dari keseluruhan email ini dengan seksama. Cetaklah & simpan email ini untuk penggunaan anda dimasa mendatang.
+
+=============================================
+HOSTING DETAILS
+=============================================
+
+Paket Hosting anda adalah: pakethemat
+Nama Domain Utama Anda : mymarkherb.com
+IP Address Server Anda : 103.28.12.184
+
+DNS ( Domain Name Server )
+Berikut merupakan DNS server Qwords.com yang ditugaskan untuk mengatur hosting anda.
+
+Primary - dnsiix1.qwords.net
+Secondary - dnsiix2.qwords.net
+
+Jika anda membeli nama domain bukan dari Qwords.com, arahkan domain anda ke DNS tersebut.
+
+Mohon untuk tidak mengarahkan Hanya "A" Record saja, agar dapat menggunakan fasilitas hosting dengan sempurna, arahkan DNS domain anda menuju DNS server tersebut
+
+
+Setiap perpindahan DNS akan mengakibatkan proses Propagasi DNS,
+(baca lebih lanjut di http://www.Qwords.com/faq/#b28 )
+
+
+=============================================
+CONTROL PANEL & FTP
+=============================================
+
+Control Panel dipergunakan untuk mengatur account hosting anda, membuat email account, sub domain, dan banyak fitur lainnya
+FTP dipergunakan untuk memindahkan data dari komputer anda ke Server tempat domain anda dihosting, dan sebaliknya
+
+Alamat Control Panel anda adalah:    http://mymarkherb.com/cpanel/
+
+Alamat FTP Anda adalah:   ftp.mymarkherb.com
+port FTP : 21
+Direktori upload web : public_html atau www
+file awalan web yang ditampilkan : index.htm, index.html, index.php
+
+Untuk Login ke cPanel / FTP berikut merupakan username anda:
+
+Username cPanel / FTP : mymabcom
+Password cPanel / FTP : mym41974
+
+Untuk mengubah password Control panel atau FTP, login di cPanel pada menu password
+
+Jika anda lupa dengan password CPANEL atau FTP, hubungi technical support 24 Jam kami
+
+Artikel berikut akan membantu anda dalam menggunakan FTP
+http://www.Qwords.com/kb/upload-pakai-filezilla-cara-setting-limitnya/
+
+
+=============================================
+MAIL SERVER
+=============================================
+
+Email Server anda: mail.mymarkherb.com
+Mode Server: SMTP, IMAP, POP
+Mendukung: Outlook / Thunderbird / Windows Live / Email client lainnya
+OS Handset Support: Blackberry / iPhone / Android / Windows / Nokia dan Handset lain
+
+Anda dapat membuat email account seperti :
+
+namaanda@mymarkherb.com
+usernameanda@mymarkherb.com
+
+untuk membuatnya, silakan login ke CPANEL dan masuk ke menu Email Account
+
+Untuk membuka email tersebut, pergunakan informasi berikut
+
+Username email : namaanda@mymarkherb.com
+Password email : password yang anda buat lewat CPANEL -> email account
+
+Fasilitas Webmail : http://webmail.mymarkherb.com/
+
+
+=============================================
+Apabila anda tidak dapat mengakses CPANEL / Webmail / SMTP
+=============================================
+
+Pastikan anda tidak berada dibalik proxy / warnet / rtrwnet / kantor dengan rule strict / firewall / broadband murah unlimited
+
+Hubungi administrator jaringan / ISP yang anda pergunakan dan mintalah untuk dibuka port berikut apabila anda tidak dapat mengakses account hosting anda :
+
+20 = Secure FTP
+21 = FTP
+25 = SMTP
+80 = HTTP
+443 = Secure HTTP
+2082 = Cpanel
+2083 = Secure Cpanel
+2095 = Webmail
+2096 = Secure Web Mail
+
+
+=============================================
+BAHAN BACAAN & MANUAL
+=============================================
+
+Manual Penggunaan account Hosting :
+http://www.Qwords.com/kb
+
+Manual CPANEL dapat anda dapatkan di
+http://www.cpanel.net/support/docs/index.htm
+Jika anda kesulitan untuk membaca manual CPANEL, silakan melihat video tutorial mengenai CPANEL dalam CPANEL anda
+
+FAQ / Tanya Jawab mengenai layanan Qwords.com lainnya di
+http://www.Qwords.com/faq
+
+Anda dapat login untuk mengatur account anda di Qwords.com
+Mengatur nama Domain, hosting, dan billing, dengan login di http://www.Qwords.com/
+
+
+=============================================
+FASILITAS TAMBAHAN
+=============================================
+
+Anda dapat mengunjungi Blog kami di
+http://www.Qwords.com/blog
+
+Kunjungi juga agregator blog kami, tempat dimana komunitas blogger Qwords.com tergabung
+http://planet.Qwords.com
+Jika anda mempergunakan mymarkherb.com untuk keperluan Blog, anda dapat mendaftarkannya kedalam komunitas ini
+
+Periksa status terbaru mengenai server Qwords.com, upgrade, informasi software dan lain lain di
+http://status.Qwords.com
+
+Jadilah teman kami di Facebook, dan twitter
+http://www.facebook.com/qwordsdotcom
+http://www.twitter.com/qwordsdotcom
+
+
+=============================================
+INFORMASI TAMBAHAN
+=============================================
+
+Apabila ada pertanyaan mengenai email ini, anda dapat langsung menghubungi kami
+
+Pastikan anda mengirimkan email ke bagian administratif kami yang tepat
+
+info@Qwords.com untuk keperluan umum / presales
+billing@Qwords.com untuk keperluan billing / verifikasi account
+
+Sebelum menanyakan hal bersifat teknis kepada bagian support kami, kami mengharuskan anda untuk membaca manual terlebih dahulu.
+
+Untuk keamanan dan kenyamanan anda, kami hanya melayani pertanyaan atau permintaan support teknis melalui support ticket.
+Permintaan bantuan teknis yang tidak dilakukan melalui support ticket akan diabaikan.
+
+
+Terima kasih atas kepercayaan anda terhadap Qwords.com.
+
+
+Salam
+
+Qwords.com Web Hosting Indonesia
+PT Qwords Company International
+
+Jakarta Office :
+Gallery Qwords.com @ Cyber Building 1, 3rd Floor
+Jl.Kuningan Barat no.8, Jakarta 12710, Indonesia
+
+Bandung Office :
+Jl.Cisitu Lama no.48, Bandung 40135, Indonesia
+
+Yogyakarta Office:
+Jl Perumnas No.89/299 Seturan, CT, Depok, Sleman, Yogyakarta 55281, Indonesia
+
+24 Hours Call Center :
+Phone : 08041808888 (Indonesia Only)
+Phone: +62 21 5277822
+Fax: +62 22 2530022
+E: info@Qwords.com
+
+http://www.Qwords.com TOP 10 Hosting Company in Indonesia
