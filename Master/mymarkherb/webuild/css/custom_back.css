@@ -1,0 +1,38 @@
+/* login */
+
+body.login{
+	background-color : white !important;
+}
+
+.login .content{
+	border: #2ecc71 solid 1px;
+	-webkit-border-radius: 7px !important;
+     -moz-border-radius: 7px !important;
+          border-radius: 7px !important;
+}
+
+body{
+	background-color: #95a5a6 !important;
+}
+
+.header .navbar-inner{
+	background-color: #ecf0f1 !important;
+}
+.page-sidebar > ul > li.active > a{
+	background-color: #7f8c8d !important;
+}
+
+.footer{
+	color : red;
+}
+
+.header .nav > li.dropdown.user .dropdown-toggle .username{
+	color : #666;
+}
+/* endlogin */
+
+
+div#berita .news-blocks img.news-block-img{
+	width: 370px;
+	height: 172px;
+}

@@ -1,0 +1,135 @@
+div.menu ul.dropdown{
+	
+	position: relative;
+	float:left;
+}
+
+.navbar-default{
+	background: #2ECC71; 
+}
+
+.categories h3{
+	background: #2ECC71; 
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
+	color : black;
+	background-color: #27ae60;
+}
+
+div#dashboard-carousel div.item a.btn-primary{
+	background: #2ECC71;
+	border-color: #2ECC71;
+
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus{
+	background-color: #27ae60;
+}
+
+.dropdown-menu{
+	background: #2ECC71;
+}
+
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{
+	background-color: #27ae60;	
+}
+
+.add-cart h4 a{
+	background: #2ECC71;
+}
+
+.price-details{
+	border-top: 1px solid #27ae60;
+}
+
+.slide h1{
+	color : #27ae60;
+}
+
+nav .container-fluid{
+
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
+	color: #c0392b;
+}
+
+.navbar-default .navbar-nav > li > a{
+	
+	color : #c0392b;
+
+}
+
+.navbar-default .navbar-toggle{
+	background: #2ECC71;
+	border : 1px solid red;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+	background: #27ae60;
+}
+
+
+
+/* news */
+
+div#news .images_3_of_1 img{
+	margin-top:25px;
+}
+
+div#news .grid h4 span a{
+	color : red;
+}
+
+.news_desc p a{
+	color : white;
+}
+.news_desc h3{
+	color: #2ecc71;
+}
+div#news .grid.images_3_of_3 p{
+	font-size: 0.85em;
+	color : #747474;
+}
+
+div#news .grid.images_3_of_3 h3{
+	
+	color : #2ECC71;
+}
+
+div#news .grid.images_3_of_3 h4{
+	font-size: 0.85em;
+	color : black;
+}
+
+div#news .grid.images_3_of_3 span a {
+	font-size: 1.3em;
+	text-decoration: underline;
+	
+}
+
+div#news .grid.images_3_of_3 a.btn-primary {
+	background-color: #2ecc71;
+	border: 1px solid #2ecc71;
+	
+}
+
+div#news .grid a.btn-primary {
+	background-color: #2ecc71;
+	border: 1px solid #2ecc71;
+	
+}
+
+/* end of news */
+
+/* validator */
+
+label.error{
+	color : red;
+}
+
+/* end validator*/

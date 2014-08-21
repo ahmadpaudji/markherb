@@ -1,0 +1,36 @@
+{
+  "name": "jquery.validator",
+  "ignore": [
+    "*.html",
+    "bower.json"
+  ],
+  "main": [
+    "validator.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.1"
+  },
+  "homepage": "https://github.com/sofish/validator.js",
+  "authors": [
+    "sofish <sofish@icloud.com>"
+  ],
+  "description": "一个简单、轻量级，但功能强大的 Validator 组件。",
+  "keywords": [
+    "validator",
+    "validator.js",
+    "html5 validator",
+    "form validator",
+    "jquery validator"
+  ],
+  "license": "MIT",
+  "_release": "e7adb9f383",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e7adb9f383b80f18ce6f113b9b908e5470367bf2"
+  },
+  "_source": "git://github.com/heroicyang/validator.js.git",
+  "_target": "*",
+  "_originalSource": "jquery.validator",
+  "_direct": true
+}
